@@ -1,4 +1,4 @@
-## Olá! Meu nome é João Pedro Camargo
+## Olá! Meu nome é João Pedro
 
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas pela UniCarioca.
 - 📚 Estudando JavaScript, C, MySQP
