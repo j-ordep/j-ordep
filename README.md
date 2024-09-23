@@ -3,7 +3,7 @@
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas pela UniCarioca.
 - 📚 Estudando Java, JavaScript, MySQP
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,nodejs)](https://skillicons.dev)
 
 ##
 
