@@ -1,7 +1,7 @@
 ## Olá! Meu nome é João Pedro
 
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas pela UniCarioca.
-- 📚 Estudando Java, Spring, JavaScript, HTML, CSS, SQL
+- 📚 Estudando Java, Spring, PostgreSQL, MySQL, Docker, JavaScript, HTML, CSS.
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,html,css)](https://skillicons.dev)
 
