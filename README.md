@@ -3,7 +3,7 @@
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas pela UniCarioca.
 - 📚 Estudando Java, Spring, Angular, SQL, Docker, Git, AWS.
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,mysql,postgresql,docker,aws,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,typescript,angular,mysql,postgresql,docker,aws)](https://skillicons.dev)
 
 ##
 
