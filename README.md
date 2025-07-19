@@ -3,7 +3,7 @@
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas pela UniCarioca.
 - 📚 Estudando Java, Spring, Angular, SQL, Docker, Git, AWS.
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,angular,typescript,mysql,postgresql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,typescript,go,mysql,postgresql,docker)](https://skillicons.dev)
 
 <div> 
   <a href="https://www.youtube.com/@devjoaopedro" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
