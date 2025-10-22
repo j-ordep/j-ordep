@@ -2,7 +2,7 @@
 
 - Go, Java, Spring, SQL, Docker, Git.
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,postgresql,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,spring,postgresql,mysql,docker)](https://skillicons.dev)
 
 <div> 
   <a href="https://www.youtube.com/@devjoaopedro" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
