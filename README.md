@@ -1,6 +1,6 @@
 ## Olá! Meu nome é João Pedro
 
-- Go, Java, Spring, SQL, Docker, Git.
+- Golang, Java, Spring, SQL, Docker, Git.
 
 [![My Skills](https://skillicons.dev/icons?i=go,java,spring,postgresql,mysql,docker)](https://skillicons.dev)
 
